@@ -17,6 +17,7 @@
 */
 
 #include <AP_Math/AP_Math.h>
+#include <AP_HAL/utility/sparse-endian.h>
 
 #include "SIM_RichenPower.h"
 #include "SITL.h"
